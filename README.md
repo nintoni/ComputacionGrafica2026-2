@@ -1,32 +1,17 @@
 <div align="center">
 
-# ComputacionGrafica2026-2
+# Reporte de práctica 1: Introducción a OpenGL
 
-UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
-<br>
-FACULTAD DE INGENIERÍA
-<br>
-DIVISIÓN DE INGENIERÍA ELÉCTRICA
-<br>
-INGENIERÍA EN COMPUTACIÓN
-<br>
-LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
+1.- Ventana cambia el color de fondo de forma random tomando rango de colores RGB y con una periodicidad de 2 segundos. (Verificar que al ejecutar el programa varias veces el orden de los colores si lo vean aleatorio y no siempre los mismos)
 
 
-### NOMBRE COMPLETO: Camacho Ignacio Violeta 
-Nº de Cuenta: 319061345
-
-
-GRUPO DE LABORATORIO: 13
-<br>
-GRUPO DE TEORÍA: 06
-
-
-SEMESTRE 2026-2
+2.- 3 letras iniciales de sus nombres creadas a partir de triángulos, acomodadas en forma diagonal de abajo hacia arriba,  todas las letras son del mismo color.
+Los dos ejercicios se muestran de forma simultanea y están en el mismo main
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5f6d1e6-97ed-472d-8d45-018b7c73106f" width="200">
+  <img src="https://github.com/user-attachments/assets/1e3444cb-013d-4785-baac-b9b7ac480e09" width="200">
 </p>
+
 
 </div>
 
