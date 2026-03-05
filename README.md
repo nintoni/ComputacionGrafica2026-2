@@ -1,6 +1,6 @@
 <div align="center">
 
-# Reporte de práctica 2: Proyecciones y puertos de vista. Transformaciones Geométricas
+# Reporte de práctica 3: modelado geométrico
 
 1.- Generar una pirámide rubik (pyraminx) de 9 pirámides por cara.
 Cada cara de la pyraminx que se vea de un color diferente y que se vean las separaciones entre instancias (las líneas oscuras son las que permiten diferenciar cada pirámide pequeña)
