@@ -1,32 +1,16 @@
 <div align="center">
 
-# ComputacionGrafica2026-2
+# Reporte de práctica 4: Modelado Jerárquico
 
-UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
-<br>
-FACULTAD DE INGENIERÍA
-<br>
-DIVISIÓN DE INGENIERÍA ELÉCTRICA
-<br>
-INGENIERÍA EN COMPUTACIÓN
-<br>
-LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
+1.- Terminar la Grúa con:
+-cuerpo(prisma rectangular)
+-base (pirámide cuadrangular) 
+-4 llantas( 4 cilindros) con teclado se pueden girar cada una de las 4 llantas por separado
+2.- Crear un animal robot 3d
+-Instanciando cubos, pirámides, cilindros, conos, esferas:
+-4 patas articuladas en 2 partes (con teclado se puede mover las dos articulaciones de cada pata)
+ -cola articulada o 2 orejas articuladas. (con teclado se puede mover la cola o cada oreja independiente
 
-
-### NOMBRE COMPLETO: Camacho Ignacio Violeta 
-Nº de Cuenta: 319061345
-
-
-GRUPO DE LABORATORIO: 13
-<br>
-GRUPO DE TEORÍA: 06
-
-
-SEMESTRE 2026-2
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5f6d1e6-97ed-472d-8d45-018b7c73106f" width="200">
-</p>
 
 </div>
 
