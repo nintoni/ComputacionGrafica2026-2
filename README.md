@@ -1,32 +1,14 @@
 <div align="center">
 
-# ComputacionGrafica2026-2
+# Reporte de Práctica 7: Iluminación 1
 
-UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
-<br>
-FACULTAD DE INGENIERÍA
-<br>
-DIVISIÓN DE INGENIERÍA ELÉCTRICA
-<br>
-INGENIERÍA EN COMPUTACIÓN
-<br>
-LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
+1.-Agregar movimiento con teclado al helicóptero hacia adelante y atrás.
 
 
-### NOMBRE COMPLETO: Camacho Ignacio Violeta 
-Nº de Cuenta: 319061345
+2.-crear luz spotlight de helicóptero de color amarilla que apunte hacia el piso y se mueva con el helicóptero
 
 
-GRUPO DE LABORATORIO: 13
-<br>
-GRUPO DE TEORÍA: 06
+3.- Añadir en el escenario 1 modelo de lámpara texturizada y crearle luz puntual blanca
 
-
-SEMESTRE 2026-2
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5f6d1e6-97ed-472d-8d45-018b7c73106f" width="200">
-</p>
 
 </div>
-
