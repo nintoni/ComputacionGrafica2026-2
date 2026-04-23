@@ -1,32 +1,14 @@
 <div align="center">
 
-# ComputacionGrafica2026-2
+# Reporte de práctica 9: Animación Básica
 
-UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
-<br>
-FACULTAD DE INGENIERÍA
-<br>
-DIVISIÓN DE INGENIERÍA ELÉCTRICA
-<br>
-INGENIERÍA EN COMPUTACIÓN
-<br>
-LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
+1.-  Hacer que su carro recorra la pista Adecuadamente (curvas, inclinación en rampa, faro frontal ilumina la pista) desde el inicio hasta el punto extremo y ahí se detenga. Se puede repetir la animación si se presiona una tecla designada.
 
 
-### NOMBRE COMPLETO: Camacho Ignacio Violeta 
-Nº de Cuenta: 319061345
+2.-Separar de la Nave el otra ala y las dos hélices, Hacer que sobrevuele  la pista adecuadamente( jerarquía, aleteo, giro de hélices, faro ilumina la pista) pero en sentido contrario,  inicia en el punto extremo y aterriza junto al punto inicial. Esta animación no se puede repetir.
 
 
-GRUPO DE LABORATORIO: 13
-<br>
-GRUPO DE TEORÍA: 06
+Extra 5 puntos: Su dado de 8 caras cae girando sobre el piso  y muestra  un número random adecuadamente hacia arriba, se repite la tirada al presionar una tecla.
 
-
-SEMESTRE 2026-2
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5f6d1e6-97ed-472d-8d45-018b7c73106f" width="200">
-</p>
 
 </div>
-
